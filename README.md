@@ -10,7 +10,7 @@ Resources for the CWIN18 Hackathon in Toulouse
 
 ### On Open Source
 
-* [OpenShift for Data Science](https://github.com/redhat-capgemini-exchange/cwin2018-hackathon/blob/master/reference/reference/os_openshift_ml.md)
+* [OpenShift for Data Science](https://github.com/redhat-capgemini-exchange/cwin2018-hackathon/blob/master/reference/os_openshift_ml.md)
 * [Open Source Libraries for ML/AI](https://github.com/redhat-capgemini-exchange/cwin2018-hackathon/blob/master/reference/os_libraries.md)
 
 ### Products
