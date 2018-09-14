@@ -6,8 +6,12 @@ Open Source libraries and tools to use for machine learning and data science.
 
 An opinionated selection of ML libraries.
 
+#### General purpose libraries
+
 * [Turi Create](https://github.com/apple/turicreate)
-* [TensorFlow](https://www.tensorflow.org/)
-* [TensorFlow on GitHub](https://github.com/tensorflow)
 * [Scikit Learn](http://scikit-learn.org/stable/)
 
+#### TensorFlow
+
+* [TensorFlow](https://www.tensorflow.org/)
+* [TensorFlow on GitHub](https://github.com/tensorflow)
