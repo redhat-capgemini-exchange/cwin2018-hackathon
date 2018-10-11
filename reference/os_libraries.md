@@ -15,3 +15,7 @@ An opinionated selection of ML libraries.
 
 * [TensorFlow](https://www.tensorflow.org/)
 * [TensorFlow on GitHub](https://github.com/tensorflow)
+
+TensorFlow on OpenShift
+
+* [Intro to Machine Learning using Tensorflow – Part 1](https://blog.openshift.com/intro-machine-learning-using-tensorflow-part-1/)

@@ -18,4 +18,4 @@ Resources for the CWIN18 Hackathon in Toulouse
 * [OpenShift Documentation](https://docs.openshift.com/container-platform/3.10/welcome/index.html)
 * [OpenShift Commons](https://www.youtube.com/user/rhopenshift/videos)
 * [Local OpenShift cluster](https://github.com/openshift/origin/blob/master/docs/cluster_up_down.md)
-* [More local OpenShift](https://github.com/openshift-evangelists/oc-cluster-wrapper)
+* [More local OpenShift cluster stuff](https://github.com/openshift-evangelists/oc-cluster-wrapper)
